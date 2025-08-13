@@ -1,1 +1,0 @@
-export { MenBarra } from "./MenBarra";

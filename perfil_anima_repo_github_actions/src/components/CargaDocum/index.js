@@ -1,1 +1,0 @@
-export { CargaDocum } from "./CargaDocum";

@@ -1,1 +1,0 @@
-export { PropertyMen } from "./PropertyMen";

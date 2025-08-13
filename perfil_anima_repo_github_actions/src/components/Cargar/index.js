@@ -1,1 +1,0 @@
-export { Cargar } from "./Cargar";

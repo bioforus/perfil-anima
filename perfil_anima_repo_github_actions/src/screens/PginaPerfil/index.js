@@ -1,1 +1,0 @@
-export { PginaPerfil } from "./PginaPerfil";
