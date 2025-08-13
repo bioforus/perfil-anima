@@ -1,0 +1,1 @@
+export { IaBotNPrincipal } from "./IaBotNPrincipal";

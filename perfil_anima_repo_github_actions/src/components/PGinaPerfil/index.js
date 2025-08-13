@@ -1,0 +1,1 @@
+export { PGinaPerfil } from "./PGinaPerfil";

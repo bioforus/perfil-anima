@@ -1,0 +1,1 @@
+export { Autoria } from "./Autoria";

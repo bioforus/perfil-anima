@@ -1,0 +1,1 @@
+export { CargaDocum } from "./CargaDocum";
