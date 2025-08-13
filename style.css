@@ -1,0 +1,229 @@
+.PGINA-PERFIL {
+  position: relative;
+  width: 1726px;
+  height: 1116px;
+  background-color: var(--gris-suau);
+  overflow: hidden;
+}
+
+.PGINA-PERFIL .el-meu-perfil {
+  position: absolute;
+  width: 133px;
+  height: 18px;
+  top: 376px;
+  left: 796px;
+}
+
+.PGINA-PERFIL .dades-de-registre {
+  position: absolute;
+  width: 556px;
+  height: 202px;
+  top: 423px;
+  left: 585px;
+}
+
+.PGINA-PERFIL .modifica-la-teva {
+  position: absolute;
+  width: 217px;
+  height: 16px;
+  top: 812px;
+  left: 755px;
+}
+
+.PGINA-PERFIL .frame {
+  position: absolute;
+  width: 340px;
+  height: 22px;
+  top: 648px;
+  left: 693px;
+}
+
+.PGINA-PERFIL .img {
+  position: absolute;
+  width: 240px;
+  height: 27px;
+  top: 780px;
+  left: 743px;
+}
+
+.PGINA-PERFIL .IA-BOTN-PRINCIPAL {
+  display: flex;
+  width: 338px;
+  height: 45px;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  padding: 5px 30px;
+  position: absolute;
+  top: 697px;
+  left: 694px;
+  background-color: var(--buttons);
+  border-radius: 41px;
+}
+
+.PGINA-PERFIL .BOT-PRINCIPAL {
+  position: relative;
+  width: fit-content;
+  font-family: var(--header-4-font-family);
+  font-weight: var(--header-4-font-weight);
+  color: var(--blanc);
+  font-size: var(--header-4-font-size);
+  text-align: center;
+  letter-spacing: var(--header-4-letter-spacing);
+  line-height: var(--header-4-line-height);
+  white-space: nowrap;
+  font-style: var(--header-4-font-style);
+}
+
+.PGINA-PERFIL .MEN-barra {
+  position: fixed;
+  width: 1728px;
+  height: 92px;
+  top: 0;
+  left: -2px;
+  background-color: var(--blanc);
+  box-shadow: 0px 2px 8px #00000040;
+}
+
+.PGINA-PERFIL .LOGO-PRODUCTE {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  position: absolute;
+  top: 18px;
+  left: 108px;
+}
+
+.PGINA-PERFIL .ROBOT-AI {
+  display: flex;
+  width: 77.54px;
+  height: 42px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.PGINA-PERFIL .ROBOT {
+  position: relative;
+  width: 54.31px;
+  height: 32.39px;
+}
+
+.PGINA-PERFIL .PLUMA {
+  position: relative;
+  width: 19.92px;
+  height: 33.13px;
+}
+
+.PGINA-PERFIL .nom-de-l-eina-AI {
+  position: relative;
+  width: 240px;
+  height: 56px;
+  margin-top: -1.00px;
+  font-family: var(--header-3-font-family);
+  font-weight: var(--header-3-font-weight);
+  color: var(--gris-fosc);
+  font-size: var(--header-3-font-size);
+  letter-spacing: var(--header-3-letter-spacing);
+  line-height: var(--header-3-line-height);
+  font-style: var(--header-3-font-style);
+}
+
+.PGINA-PERFIL .CARGA-DOCUM {
+  position: absolute;
+  width: 176px;
+  height: 42px;
+  top: 25px;
+  left: 1236px;
+}
+
+.PGINA-PERFIL .CARGAR {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 0;
+  left: 134px;
+}
+
+.PGINA-PERFIL .USUARIO {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 25px;
+  left: 1437px;
+}
+
+.PGINA-PERFIL .MEN-desplegable {
+  display: flex;
+  width: 100px;
+  height: 32px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  padding: 4px 14px 4px 12px;
+  position: absolute;
+  top: 30px;
+  left: 1512px;
+  background-color: var(--buttons);
+  border-radius: 18px;
+}
+
+.PGINA-PERFIL .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: var(--header-4-font-family);
+  font-weight: var(--header-4-font-weight);
+  color: var(--blanc);
+  font-size: var(--header-4-font-size);
+  text-align: right;
+  letter-spacing: var(--header-4-letter-spacing);
+  line-height: var(--header-4-line-height);
+  white-space: nowrap;
+  font-style: var(--header-4-font-style);
+}
+
+.PGINA-PERFIL .vector {
+  position: relative;
+  width: 11.5px;
+  height: 6.5px;
+  margin-right: -0.75px;
+}
+
+.PGINA-PERFIL .AUTORIA {
+  display: flex;
+  width: 318px;
+  height: 56px;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  padding: 12px 24px;
+  position: fixed;
+  top: 1037px;
+  left: 1382px;
+  background-color: var(--blanc);
+  border-radius: 50px;
+  box-shadow: 4px 4px 8px #00000024;
+}
+
+.PGINA-PERFIL .AUTOR-a {
+  position: relative;
+  width: fit-content;
+  font-family: var(--header-4-font-family);
+  font-weight: var(--header-4-font-weight);
+  color: var(--gris-fosc);
+  font-size: var(--header-4-font-size);
+  letter-spacing: var(--header-4-letter-spacing);
+  line-height: var(--header-4-line-height);
+  white-space: nowrap;
+  font-style: var(--header-4-font-style);
+}
+
+.PGINA-PERFIL .group {
+  position: relative;
+  width: 41px;
+  height: 35.24px;
+  margin-top: -1.62px;
+  margin-bottom: -1.62px;
+  aspect-ratio: 1.16;
+}
